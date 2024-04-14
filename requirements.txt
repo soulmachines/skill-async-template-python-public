@@ -1,0 +1,9 @@
+black
+debugpy
+fastapi
+importlib-metadata
+jellyfish
+nest_asyncio
+pydantic==1.10.11
+smskillsdk
+uvicorn[standard]

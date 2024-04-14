@@ -1,0 +1,13 @@
+{
+  "name": "My Async Skill",
+  "summary": "One line summary of skill",
+  "description": "Brief description of the skill",
+  "status": "ACTIVE",
+  "serviceProvider": "SKILL_ASYNC_API",
+  "endpointInitialize": "https://your-domain-here/init",
+  "endpointEndProject": "https://your-domain-here/delete",
+  "endpointExecute": "wss://your-domain-here",
+  "config": {
+    "skillType": "BASE_CORPUS"
+  }
+}
