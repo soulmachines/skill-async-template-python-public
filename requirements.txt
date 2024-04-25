@@ -4,6 +4,6 @@ fastapi
 importlib-metadata
 jellyfish
 nest_asyncio
-pydantic==1.10.11
+pydantic==1.10.13
 smskillsdk
 uvicorn[standard]
